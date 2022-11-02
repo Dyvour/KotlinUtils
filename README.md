@@ -1,4 +1,5 @@
 # KotlinUtils
+These utils are basic for the creation of any plugin made in kotlin
 
 # Contents
 * Color
