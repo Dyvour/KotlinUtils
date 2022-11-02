@@ -1,0 +1,4 @@
+name: KotlinUtils
+main: me.dyvour.utils
+version: 1.0
+description: Utils to use in kotlin
